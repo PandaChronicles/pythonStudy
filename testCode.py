@@ -2,6 +2,7 @@ length = 14
 print(length)
 maxNum = 22
 time = 0
+
 while length != maxNum and time <= 10:
     time += 1
     if length < maxNum:
